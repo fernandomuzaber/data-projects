@@ -1,0 +1,28 @@
+3734
+
+Curso Power BI – Análisis de Datos y Business Intelligence
+
+ppt de intro en carpeta:
+"C:\root\Computacion\Data\Analytics\Udemy\Power BI\Curso Power BI – Análisis de Datos y Business Intelligence\PDF-PowerBI-Guía-datdata.pdf"
+
+Al dar click en actualizar se realizan todos los pasos definidos en Power Query para actualizar la fuente de datos con esos pasos (de ahi la importancia de que a menores pasos es mejor el rendimiento)
+
+
+✅ ¿Cómo confirmar cuántas filas tiene el dataset en Power Query:
+
+Agregá un paso nuevo con esta fórmula:
+
+= Table.RowCount(Anterior)
+Donde Anterior es el nombre del paso anterior (usualmente algo como #"Tipo cambiado").
+
+Eso te va a devolver un solo número: la cantidad real de filas que tiene tu dataset.
+
+Proyecto 1 - Ventas de videojuegos (DONE): 
+"C:\root\Computacion\Data\Analytics\Udemy\Power BI\Curso Power BI – Análisis de Datos y Business Intelligence\Proyectos\Proyecto1 - Videojuegos\Proyecto1-videojuegos.pbix"
+
+Proyecto 2 - Indicadores Mundiales:
+"C:\root\Computacion\Data\Analytics\Udemy\Power BI\Curso Power BI – Análisis de Datos y Business Intelligence\Proyectos\Proyecto2 - Indicadores mundiales\Indicadores Mundiales - Project 2.pbix"
+
+
+- Cuando tienen las relaciones hechas en el modelo se pueden usar campos de las dos tablas relacionadas en una sola visualizacion (Se junta la información de las tablas relacionadas) 
+
