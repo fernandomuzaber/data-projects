@@ -23,3 +23,5 @@ Proyecto 2 - Indicadores Mundiales:
 
 
 - Cuando tienen las relaciones hechas en el modelo se pueden usar campos de las dos tablas relacionadas en una sola visualizacion (Se junta la información de las tablas relacionadas) 
+
+Until 56
