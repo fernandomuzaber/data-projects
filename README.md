@@ -10,7 +10,7 @@ Welcome to my data portfolio. Here, I document my journey transforming raw data 
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI & DAX" width="60" height="60" />
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.png" alt="Excel" width="60" height="60" />
+        <img src="https://i.pinimg.com/474x/13/d0/e5/13d0e5bf089f5f4c9973e235e0411610.jpg" alt="Excel" width="60" height="60" />
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="60" height="60" />
