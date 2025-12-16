@@ -43,7 +43,7 @@ A professional, reusable **Date Dimension** template.
 * **Why:** Essential for accurate time-intelligence calculations (Same Period Last Year, YTD, Moving Averages).
 * **Features:** Fiscal Years, Week Offsets, Dynamic Range.
 
-[**[ 📂 Get the DAX Code ]**](./Proyectos/Tabla%20Calendario%20-%20Repaso/Recursos)
+[**[ 📂 Get the DAX Code ]**](./Proyectos/Tabla%20Calendario%20-%20Repaso/)
 
 ---
 
