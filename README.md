@@ -65,8 +65,3 @@ A reusable and robust **DAX Calendar Table** template designed for any time-inte
 * **Usage:** Essential for calculating running totals, YoY growth, and moving averages.
 * [📂 **Get the DAX Code**](./Tabla%20Calendario%20-%20Repaso/Recursos)
 
----
-
-<div align="center">
-    <p><em>Connect with me to discuss data, technology, and insights.</em></p>
-</div>
