@@ -5,11 +5,16 @@ Welcome to my data portfolio. Here, I document my journey transforming raw data 
 ---
 
 ## 🛠 Tech Stack
-
-<div align="center" style="display: flex; justify-content: center; gap: 25px; margin-bottom: 20px;">
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI + DAX" width="55" height="55" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="55" height="55" /></a>
-<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL / Data Modeling" width="55" height="55" /></a>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
+    <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI & DAX" width="60" height="60" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="60" height="60" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="60" height="60" />
+    </a>
 </div>
 
 <div align="center">
