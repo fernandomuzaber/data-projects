@@ -1,37 +1,82 @@
-# Human Resources Analytics Project with Power BI
+# Data Analytics & Business Intelligence Portfolio
 
-## Overview
-This project focuses on developing a comprehensive Human Resources (HR) analytics dashboard using Power BI. The goal is to provide **actionable insights** derived from complex calculations for accurate reporting on various HR metrics. This enables data-driven decision-making for workforce management, talent acquisition, and employee retention. The dashboard leverages advanced DAX functions, Power Query for data transformation, and interactive visualizations to present key HR performance indicators.
+Welcome to my data portfolio. Here, I document my journey transforming raw data into actionable business insights. This repository contains end-to-end BI solutions, advanced DAX calculations, and reusable data modeling resources.
 
-## Technologies Used
+---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+## 🛠 Tech Stack
+
+<div align="center" style="display: flex; justify-content: center; gap: 25px; margin-bottom: 20px;">
     <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60" style="margin: 0 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55" />
     </a>
     
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="60" height="60" style="margin: 0 10px;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="55" height="55" />
     </a>
 
-    <a href="https://powerquery.microsoft.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/azure-sql-database.svg" alt="Power Query / SQL" width="60" height="60" style="margin: 0 10px;" />
+    <a href="#" target="_blank">
+        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Data Modeling & SQL" width="55" height="55" />
     </a>
 
     <a href="https://learn.microsoft.com/en-us/dax/" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_visual_studio_code_logo_icon_170124.png" alt="DAX Code" width="60" height="60" style="margin: 0 10px;" />
+        <img src="https://www.svgrepo.com/show/353655/code-brackets.svg" alt="DAX & Logic" width="55" height="55" />
     </a>
 </div>
 
 <div align="center">
-    <i>Power BI &nbsp;&bull;&nbsp; Excel &nbsp;&bull;&nbsp; Power Query &nbsp;&bull;&nbsp; DAX</i>
+    <strong>Core Competencies:</strong><br>
+    Data Modeling • ETL Processes • Advanced DAX • Interactive Reporting • Business Strategy
 </div>
 
-## Key Features
-* **Employee Demographics:** Analyze workforce composition by age, gender, department, and job role.
-* **Attrition Analysis:** Identify trends and factors contributing to employee turnover.
-* **Recruitment Metrics:** Track time-to-hire, cost-per-hire, and source effectiveness.
-* **Performance Management:** Monitor performance ratings and identify high-performing teams/individuals.
-* **Compensation & Benefits:** Visualize salary distribution and benefit utilization.
-* **Interactive Dashboards:** Dynamic filters and slicers for in-depth exploration of data.
-* **Advanced DAX Measures:** Implementation of complex logic for HR KPIs.
+---
+
+## 📊 Featured Projects
+
+### 1. Human Resources Analytics Dashboard (HR)
+**Focus:** Workforce Management, Retention & Performance.
+
+This comprehensive dashboard provides strategic insights into employee demographics, attrition trends, and performance metrics. It serves as a tool for HR departments to make data-driven decisions regarding talent acquisition and retention.
+
+* **Key Techniques:**
+    * **Advanced DAX:** Implementation of `SWITCH` functions for dynamic metric selection and Data Groups for categorization.
+    * **Data Modeling:** Star schema architecture for optimal performance.
+    * **ETL:** Complex data transformation using Power Query.
+* **Status:** *Completed*
+* [🔗 **Live Dashboard / View Files**](./Proyecto3%20-%20Reporte%20de%20RRHH) ### 2. Global Economic Indicators
+**Focus:** Macroeconomic Analysis & Time Intelligence.
+
+An analytical report focused on world indicators, allowing users to compare economic performance across different regions and time periods. This project emphasizes time-based calculations to track growth and trends.
+
+* **Key Techniques:**
+    * **Time Intelligence:** Robust use of a dedicated Calendar Table for Year-over-Year (YoY) and Month-over-Month (MoM) analysis.
+    * **Comparative Analysis:** Visualization of global KPIs.
+* **Status:** *Completed*
+* [🔗 **View Project Files**](./Proyecto2%20-%20Indicadores%20mundiales)
+
+### 3. Video Games Industry Analysis
+**Focus:** Sales Trends & Market Share.
+
+My first data commit focused on the gaming industry. This exploratory data analysis (EDA) investigates sales figures, platform popularity, and genre trends over recent decades.
+
+* **Key Techniques:**
+    * **Data Cleaning:** Handling missing values and standardizing platform names.
+    * **Visualization:** Effective use of charts to display market share distribution.
+* **Status:** *Completed*
+* [🔗 **View Project Files**](./Proyecto1%20-%20Videojuegos)
+
+---
+
+## 📚 Resources & Templates
+
+### standard-calendar-table
+A reusable and robust **DAX Calendar Table** template designed for any time-intelligence project.
+* **Includes:** Fiscal years, quarters, month names, and day offsets.
+* **Usage:** Essential for calculating running totals, YoY growth, and moving averages.
+* [📂 **Get the DAX Code**](./Tabla%20Calendario%20-%20Repaso/Recursos)
+
+---
+
+<div align="center">
+    <p><em>Connect with me to discuss data, technology, and insights.</em></p>
+    </div>
