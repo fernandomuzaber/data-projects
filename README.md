@@ -4,16 +4,15 @@
 This project focuses on developing a comprehensive Human Resources (HR) analytics dashboard using Power BI. The goal is to provide **actionable insights** derived from complex calculations for accurate reporting on various HR metrics. This enables data-driven decision-making for workforce management, talent acquisition, and employee retention. The dashboard leverages advanced DAX functions, Power Query for data transformation, and interactive visualizations to present key HR performance indicators.
 
 ## Technologies Used
-This project utilizes the following technologies:
 
-| Technology | Description | Logo |
-| :--- | :--- | :--- |
-| **Power BI** | For data modeling, visualization, and dashboard creation. | ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **Microsoft Excel** | For initial data storage and preparation. | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Power Query** | Integrated within Power BI for data extraction, transformation, and loading (ETL). | ![Power Query](https://img.shields.io/badge/Power_Query-FFD000?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **DAX** | For creating custom calculations, measures, and advanced analytics. | ![DAX](https://img.shields.io/badge/DAX_Expressions-00758F?style=for-the-badge&logo=google-analytics&logoColor=white) |
+<div align="center">
 
-*Note: Since specific logos for "Power Query" and "DAX" do not exist as standalone vector icons in standard libraries, we utilize related Microsoft or Analytics icons to represent them visually.*
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-FFD000?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+</div>
 
 ## Key Features
 * **Employee Demographics:** Analyze workforce composition by age, gender, department, and job role.
