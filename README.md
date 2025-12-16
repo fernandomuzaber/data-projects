@@ -1,72 +1,60 @@
-# Data Analytics & Business Intelligence Portfolio
+<div align="center">
 
-Welcome to my data portfolio. Here, I document my journey transforming raw data into actionable business insights. This repository contains end-to-end BI solutions, advanced DAX calculations, and reusable data modeling resources.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Analytics+Portfolio;Business+Intelligence+Expert;Power+BI+%26+DAX+Developer" alt="Typing SVG" />
+  </a>
 
----
+  <p align="center">
+    <em>Transforming raw data into actionable business strategies through advanced modeling and visualization.</em>
+  </p>
+  
+  <br>
 
-## 🛠 Tech Stack
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI & DAX" width="60" height="60" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/995px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" alt="Excel" width="60" height="60" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="60" height="60" />
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
     </a>
+  </div>
+  
+  <p style="font-size: 14px; color: #999;">
+    Core Stack: Power BI • Excel • SQL • DAX • ETL
+  </p>
+
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description & Tech Stack | Preview |
+| :--- | :--- | :---: |
+| **Human Resources Analytics**<br>*(Strategic Dashboard)* | **Focus:** Workforce Management & Retention.<br>Comprehensive dashboard to track employee demographics, attrition, and performance KPIs.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Advanced-00758F?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-Power_Query-FFD000?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto3%20-%20Reporte%20de%20RRHH) | 👥 |
+| **Global Economic Indicators**<br>*(Macro Analysis)* | **Focus:** World Trends & Time Intelligence.<br>Comparative analysis of global economic performance using advanced Time Intelligence functions (YoY, MoM).<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=flat-square) ![Calendar](https://img.shields.io/badge/Time-Intelligence-orange?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto2%20-%20Indicadores%20mundiales) | 🌍 |
+| **Video Games Industry**<br>*(Market Research)* | **Focus:** Sales & Trends (EDA).<br>Exploratory Data Analysis of historical sales figures, platforms, and genre popularity.<br><br>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![EDA](https://img.shields.io/badge/Analysis-EDA-success?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto1%20-%20Videojuegos) | 🎮 |
+
+<br>
+
+## 📚 Tools & Resources
+
+### 🗓️ Standard Calendar Table (DAX)
+A robust, reusable **Date Table** template essential for any time-intelligence project. Includes Fiscal Years, Quarters, and Sort Columns.
+
+> **Why it matters:** *Accurate time intelligence calculations (YoY, YTD) are impossible without a proper contiguous date dimension.*
+
+[**[ Get the Code ]**](./Tabla%20Calendario%20-%20Repaso/Recursos)
+
+---
 
 <div align="center">
-    <strong>Core Competencies:</strong><br>
-    Power BI & DAX • Excel • SQL & Data Modeling • ETL Processes
+  <br>
+  <p>Let's connect and talk about data!</p>
+  <a href="TU_LINK_DE_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-
----
-
-## 📊 Featured Projects
-
-### 1. Human Resources Analytics Dashboard (HR)
-**Focus:** Workforce Management, Retention & Performance.
-
-This comprehensive dashboard provides strategic insights into employee demographics, attrition trends, and performance metrics. It serves as a tool for HR departments to make data-driven decisions regarding talent acquisition and retention.
-
-* **Key Techniques:**
-    * **Advanced DAX:** Implementation of `SWITCH` functions for dynamic metric selection and Data Groups for categorization.
-    * **Data Modeling:** Star schema architecture for optimal performance.
-    * **ETL:** Complex data transformation using Power Query.
-* **Status:** *Completed*
-* [🔗 **View Project Files**](./Proyecto3%20-%20Reporte%20de%20RRHH)
-
-### 2. Global Economic Indicators
-**Focus:** Macroeconomic Analysis & Time Intelligence.
-
-An analytical report focused on world indicators, allowing users to compare economic performance across different regions and time periods. This project emphasizes time-based calculations to track growth and trends.
-
-* **Key Techniques:**
-    * **Time Intelligence:** Robust use of a dedicated Calendar Table for Year-over-Year (YoY) and Month-over-Month (MoM) analysis.
-    * **Comparative Analysis:** Visualization of global KPIs.
-* **Status:** *Completed*
-* [🔗 **View Project Files**](./Proyecto2%20-%20Indicadores%20mundiales)
-
-### 3. Video Games Industry Analysis
-**Focus:** Sales Trends & Market Share.
-
-My first data commit focused on the gaming industry. This exploratory data analysis (EDA) investigates sales figures, platform popularity, and genre trends over recent decades.
-
-* **Key Techniques:**
-    * **Data Cleaning:** Handling missing values and standardizing platform names.
-    * **Visualization:** Effective use of charts to display market share distribution.
-* **Status:** *Completed*
-* [🔗 **View Project Files**](./Proyecto1%20-%20Videojuegos)
-
----
-
-## 📚 Resources & Templates
-
-### Calendar Table Template
-A reusable and robust **DAX Calendar Table** template designed for any time-intelligence project.
-* **Includes:** Fiscal years, quarters, month names, and day offsets.
-* **Usage:** Essential for calculating running totals, YoY growth, and moving averages.
-* [📂 **Get the DAX Code**](./Tabla%20Calendario%20-%20Repaso/Recursos)
-
