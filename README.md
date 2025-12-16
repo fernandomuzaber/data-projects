@@ -5,13 +5,26 @@ This project focuses on developing a comprehensive Human Resources (HR) analytic
 
 ## Technologies Used
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60" style="margin: 0 10px;" />
+    </a>
+    
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="60" height="60" style="margin: 0 10px;" />
+    </a>
+
+    <a href="https://powerquery.microsoft.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/azure-sql-database.svg" alt="Power Query / SQL" width="60" height="60" style="margin: 0 10px;" />
+    </a>
+
+    <a href="https://learn.microsoft.com/en-us/dax/" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_visual_studio_code_logo_icon_170124.png" alt="DAX Code" width="60" height="60" style="margin: 0 10px;" />
+    </a>
+</div>
+
 <div align="center">
-
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-FFD000?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=google-analytics&logoColor=white)
-
+    <i>Power BI &nbsp;&bull;&nbsp; Excel &nbsp;&bull;&nbsp; Power Query &nbsp;&bull;&nbsp; DAX</i>
 </div>
 
 ## Key Features
