@@ -30,9 +30,9 @@
 
 | Project | Type & Tech | Preview |
 | :--- | :--- | :---: |
-| **Human Resources Analytics**<br>*(Strategic Dashboard)* | **Focus:** Workforce Management.<br>Dynamic report to track attrition, recruitment, and employee performance.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Hardcore-00758F?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-Power_Query-FFD000?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto3%20-%20Reporte%20de%20RRHH) | 👥 |
-| **Global Economic Indicators**<br>*(Macro Analysis)* | **Focus:** Time Intelligence (YoY/MoM).<br>Comparative analysis of world indicators focusing on growth trends over time.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-Logic-orange?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto2%20-%20Indicadores%20mundiales) | 🌍 |
-| **Video Games Industry**<br>*(Market Research)* | **Focus:** Sales & Trends (EDA).<br>Exploratory Data Analysis of historical sales, platforms, and genre popularity.<br><br>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![EDA](https://img.shields.io/badge/Analysis-EDA-success?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto1%20-%20Videojuegos) | 🎮 |
+| **Human Resources Analytics**<br>*(Strategic Dashboard)* | **Focus:** Workforce Management.<br>Dynamic report to track attrition, recruitment, and employee performance.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Hardcore-00758F?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-Power_Query-FFD000?style=flat-square)<br><br>[📂 **View Case Study**](./Proyectos/Proyecto3%20-%20Reporte%20de%20RRHH) | 👥 |
+| **Global Economic Indicators**<br>*(Macro Analysis)* | **Focus:** Time Intelligence (YoY/MoM).<br>Comparative analysis of world indicators focusing on growth trends over time.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-Logic-orange?style=flat-square)<br><br>[📂 **View Case Study**](./Proyectos/Proyecto2%20-%20Indicadores%20mundiales) | 🌍 |
+| **Video Games Industry**<br>*(Market Research)* | **Focus:** Sales & Trends (EDA).<br>Exploratory Data Analysis of historical sales, platforms, and genre popularity.<br><br>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![EDA](https://img.shields.io/badge/Analysis-EDA-success?style=flat-square)<br><br>[📂 **View Case Study**](./Proyectos/Proyecto1%20-%20Videojuegos) | 🎮 |
 
 <br>
 
@@ -43,5 +43,11 @@ A professional, reusable **Date Dimension** template.
 * **Why:** Essential for accurate time-intelligence calculations (Same Period Last Year, YTD, Moving Averages).
 * **Features:** Fiscal Years, Week Offsets, Dynamic Range.
 
-[**[ 📂 Get the DAX Code ]**](./Tabla%20Calendario%20-%20Repaso/Recursos)
+[**[ 📂 Get the DAX Code ]**](./Proyectos/Tabla%20Calendario%20-%20Repaso/Recursos)
 
+---
+
+<div align="center">
+  <br>
+  <p><em>Ready to unlock the value of data.</em></p>
+</div>
