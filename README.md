@@ -45,10 +45,3 @@ A professional, reusable **Date Dimension** template.
 
 [**[ 📂 Get the DAX Code ]**](./Tabla%20Calendario%20-%20Repaso/Recursos)
 
----
-
-<div align="center">
-  <br>
-  <p><em>Ready to unlock the value of data.</em></p>
-  
-  </div>
