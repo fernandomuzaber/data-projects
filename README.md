@@ -1,29 +1,35 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Analytics+Portfolio;Business+Intelligence+Expert;Power+BI+%26+DAX+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Analytics+Portfolio;Business+Intelligence+Specialist;Turning+Data+Into+Decisions" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <em>Transforming raw data into actionable business strategies through advanced modeling and visualization.</em>
+    <em>Expert in transforming raw data into scalable business strategies using the Microsoft Power Platform stack.</em>
   </p>
   
   <br>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+    
     <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/96/power-bi-2021.png" alt="Power BI" width="65" height="65"/>
     </a>
+    
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="65" height="65"/>
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+    
+    <a href="#" target="_blank">
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL Generic" width="65" height="65"/>
     </a>
+
   </div>
   
-  <p style="font-size: 14px; color: #999;">
-    Core Stack: Power BI • Excel • SQL • DAX • ETL
+  <br>
+  
+  <p style="font-family: monospace; font-size: 14px; color: #888;">
+    <b>Core Stack:</b> Power BI • DAX • Excel • SQL • ETL Processes
   </p>
 
 </div>
@@ -32,29 +38,27 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description & Tech Stack | Preview |
+| Project | Type & Tech | Preview |
 | :--- | :--- | :---: |
-| **Human Resources Analytics**<br>*(Strategic Dashboard)* | **Focus:** Workforce Management & Retention.<br>Comprehensive dashboard to track employee demographics, attrition, and performance KPIs.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Advanced-00758F?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-Power_Query-FFD000?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto3%20-%20Reporte%20de%20RRHH) | 👥 |
-| **Global Economic Indicators**<br>*(Macro Analysis)* | **Focus:** World Trends & Time Intelligence.<br>Comparative analysis of global economic performance using advanced Time Intelligence functions (YoY, MoM).<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=flat-square) ![Calendar](https://img.shields.io/badge/Time-Intelligence-orange?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto2%20-%20Indicadores%20mundiales) | 🌍 |
-| **Video Games Industry**<br>*(Market Research)* | **Focus:** Sales & Trends (EDA).<br>Exploratory Data Analysis of historical sales figures, platforms, and genre popularity.<br><br>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![EDA](https://img.shields.io/badge/Analysis-EDA-success?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto1%20-%20Videojuegos) | 🎮 |
+| **Human Resources Analytics**<br>*(Strategic Dashboard)* | **Focus:** Workforce Management.<br>Dynamic report to track attrition, recruitment, and employee performance.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Hardcore-00758F?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-Power_Query-FFD000?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto3%20-%20Reporte%20de%20RRHH) | 👥 |
+| **Global Economic Indicators**<br>*(Macro Analysis)* | **Focus:** Time Intelligence (YoY/MoM).<br>Comparative analysis of world indicators focusing on growth trends over time.<br><br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-Logic-orange?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto2%20-%20Indicadores%20mundiales) | 🌍 |
+| **Video Games Industry**<br>*(Market Research)* | **Focus:** Sales & Trends (EDA).<br>Exploratory Data Analysis of historical sales, platforms, and genre popularity.<br><br>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![EDA](https://img.shields.io/badge/Analysis-EDA-success?style=flat-square)<br><br>[📂 **View Case Study**](./Proyecto1%20-%20Videojuegos) | 🎮 |
 
 <br>
 
-## 📚 Tools & Resources
+## 📚 Reusable Assets
 
 ### 🗓️ Standard Calendar Table (DAX)
-A robust, reusable **Date Table** template essential for any time-intelligence project. Includes Fiscal Years, Quarters, and Sort Columns.
+A professional, reusable **Date Dimension** template.
+* **Why:** Essential for accurate time-intelligence calculations (Same Period Last Year, YTD, Moving Averages).
+* **Features:** Fiscal Years, Week Offsets, Dynamic Range.
 
-> **Why it matters:** *Accurate time intelligence calculations (YoY, YTD) are impossible without a proper contiguous date dimension.*
-
-[**[ Get the Code ]**](./Tabla%20Calendario%20-%20Repaso/Recursos)
+[**[ 📂 Get the DAX Code ]**](./Tabla%20Calendario%20-%20Repaso/Recursos)
 
 ---
 
 <div align="center">
   <br>
-  <p>Let's connect and talk about data!</p>
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+  <p><em>Ready to unlock the value of data.</em></p>
+  
+  </div>
