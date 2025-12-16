@@ -8,9 +8,9 @@ Welcome to my data portfolio. Here, I document my journey transforming raw data 
 
 <div align="center">
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55" style="margin: 0 10px;"></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="55" height="55" style="margin: 0 10px;"></a>
-  <a href="#" target="_blank"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Data" width="55" height="55" style="margin: 0 10px;"></a>
-  <a href="https://learn.microsoft.com/en-us/dax/" target="_blank"><img src="https://www.svgrepo.com/show/353655/code-brackets.svg" alt="DAX Code" width="55" height="55" style="margin: 0 10px;"></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="55" height="55" style="margin: 0 10px;"></a>
+  <a href="#" target="_blank"><img src="https://img.favpng.com/16/0/21/sql-server-logo-png-favpng-pXyDxFrAFhWQUeLq6SrgeND1g.jpg" alt="SQL Data" width="55" height="55" style="margin: 0 10px;"></a>
+  <a href="https://learn.microsoft.com/en-us/dax/" target="_blank"><img src="" alt="DAX Code" width="55" height="55" style="margin: 0 10px;"></a>
 </div>
 
 <div align="center">
