@@ -11,15 +11,9 @@
   <br>
 
   <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
-    <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://img.icons8.com/color/96/power-bi-2021.png" alt="Power BI" width="65" height="65"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-        <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="65" height="65"/>
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL Generic" width="65" height="65"/>
-    </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/96/power-bi-2021.png" alt="Power BI" width="65" height="65"/></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="65" height="65"/></a>
+    <a href="#" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL Generic" width="65" height="65"/></a>
   </div>
   
   <br>
