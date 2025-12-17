@@ -1,0 +1,105 @@
+{
+    "name": "NoWalls Analytics",
+    "background": "#333333",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#FFFFFF",
+    "dataColors": [
+        "#99ca3b",
+        "#666666",
+        "#999999",
+        "#B3B3B3",
+        "#CCCCCC",
+        "#8AD4EB",
+        "#FE9666",
+        "#A66999",
+        "#3599B8",
+        "#DFBFBF",
+        "#4AC5BB",
+        "#5F6B6D",
+        "#FB8281",
+        "#F4D25A",
+        "#7F898A",
+        "#A4DDEE",
+        "#FDAB89",
+        "#B687AC",
+        "#28738A",
+        "#A78F8F",
+        "#168980",
+        "#293537",
+        "#BB4A4A",
+        "#B59525",
+        "#475052",
+        "#6A9FB0",
+        "#BD7150",
+        "#7B4F71",
+        "#1B4D5C",
+        "#706060",
+        "#0F5C55",
+        "#1C2325"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "labels": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "fontSize": 8,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "title": [
+                    {
+                        "show": true,
+                        "fontColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "fontSize": 13,
+                        "fontFamily": "Segoe UI"
+                    }
+                ],
+                "legend": [
+                    {
+                        "show": true,
+                        "position": "Left",
+                        "showTitle": false,
+                        "labelColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "fontSize": 8,
+                        "fontFamily": "Segoe UI light"
+                    }
+                ],
+                "valueAxis": [
+                    {
+                        "show": true,
+                        "axisScale": "linear",
+                        "labelColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        }
+                    }
+                ],
+                "categoryAxis": [
+                    {
+                        "show": true,
+                        "labelColor": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -24,4 +24,6 @@ Proyecto 2 - Indicadores Mundiales:
 
 - Cuando tienen las relaciones hechas en el modelo se pueden usar campos de las dos tablas relacionadas en una sola visualizacion (Se junta la información de las tablas relacionadas) 
 
-Until 56
+Power BI themes:
+https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery?sortby=kudos
+
