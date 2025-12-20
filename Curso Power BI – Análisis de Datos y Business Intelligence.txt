@@ -27,5 +27,7 @@ Proyecto 2 - Indicadores Mundiales:
 Power BI themes:
 https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery?sortby=kudos
 
-until 66
+
 https://app.powerbi.com/groups/me/reports/feacaced-32bd-478a-82c4-799c1d2ea31b/605872cc8237eb3adf97?experience=power-bi
+
+Until 70
