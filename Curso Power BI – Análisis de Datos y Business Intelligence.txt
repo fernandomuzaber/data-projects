@@ -32,7 +32,9 @@ https://app.powerbi.com/groups/me/reports/feacaced-32bd-478a-82c4-799c1d2ea31b/6
 
 Time Intelligence Option on Current File & Global (PBI Options)=> Create a data hierarchy automatically
 
-Until 77
 
 Para crear tabla de medidas:
 Pestaña Inicio, introducir datos y se le pone solo nombre(measures esta reservada por pbi)
+
+
+Until 78
