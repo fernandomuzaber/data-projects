@@ -36,4 +36,4 @@ Time Intelligence Option on Current File & Global (PBI Options)=> Create a data 
 Para crear tabla de medidas:
 Pestaña Inicio, introducir datos y se le pone solo nombre(measures esta reservada por pbi)
 
-Until 88
+Until 89
